@@ -1,0 +1,42 @@
+C:\Users\Stojmilova\Desktop\CECE-FINAL\sedc7-11-3-csserver\SedcServer\ServerRunner\bin\Debug\netcoreapp2.1\ubava_slika.jpg
+C:\Users\Stojmilova\Desktop\CECE-FINAL\sedc7-11-3-csserver\SedcServer\ServerRunner\bin\Debug\netcoreapp2.1\ServerRunner.deps.json
+C:\Users\Stojmilova\Desktop\CECE-FINAL\sedc7-11-3-csserver\SedcServer\ServerRunner\bin\Debug\netcoreapp2.1\ServerRunner.runtimeconfig.json
+C:\Users\Stojmilova\Desktop\CECE-FINAL\sedc7-11-3-csserver\SedcServer\ServerRunner\bin\Debug\netcoreapp2.1\ServerRunner.runtimeconfig.dev.json
+C:\Users\Stojmilova\Desktop\CECE-FINAL\sedc7-11-3-csserver\SedcServer\ServerRunner\bin\Debug\netcoreapp2.1\ServerRunner.dll
+C:\Users\Stojmilova\Desktop\CECE-FINAL\sedc7-11-3-csserver\SedcServer\ServerRunner\bin\Debug\netcoreapp2.1\ServerRunner.pdb
+C:\Users\Stojmilova\Desktop\CECE-FINAL\sedc7-11-3-csserver\SedcServer\ServerRunner\bin\Debug\netcoreapp2.1\PngResponseGeneratorLib.dll
+C:\Users\Stojmilova\Desktop\CECE-FINAL\sedc7-11-3-csserver\SedcServer\ServerRunner\bin\Debug\netcoreapp2.1\ServerCore.dll
+C:\Users\Stojmilova\Desktop\CECE-FINAL\sedc7-11-3-csserver\SedcServer\ServerRunner\bin\Debug\netcoreapp2.1\ServerInterfaces.dll
+C:\Users\Stojmilova\Desktop\CECE-FINAL\sedc7-11-3-csserver\SedcServer\ServerRunner\bin\Debug\netcoreapp2.1\ServerPlugins.dll
+C:\Users\Stojmilova\Desktop\CECE-FINAL\sedc7-11-3-csserver\SedcServer\ServerRunner\bin\Debug\netcoreapp2.1\PngResponseGeneratorLib.pdb
+C:\Users\Stojmilova\Desktop\CECE-FINAL\sedc7-11-3-csserver\SedcServer\ServerRunner\bin\Debug\netcoreapp2.1\ServerCore.pdb
+C:\Users\Stojmilova\Desktop\CECE-FINAL\sedc7-11-3-csserver\SedcServer\ServerRunner\bin\Debug\netcoreapp2.1\ServerInterfaces.pdb
+C:\Users\Stojmilova\Desktop\CECE-FINAL\sedc7-11-3-csserver\SedcServer\ServerRunner\bin\Debug\netcoreapp2.1\ServerPlugins.pdb
+C:\Users\Stojmilova\Desktop\CECE-FINAL\sedc7-11-3-csserver\SedcServer\ServerRunner\obj\Debug\netcoreapp2.1\ServerRunner.csprojAssemblyReference.cache
+C:\Users\Stojmilova\Desktop\CECE-FINAL\sedc7-11-3-csserver\SedcServer\ServerRunner\obj\Debug\netcoreapp2.1\ServerRunner.csproj.CoreCompileInputs.cache
+C:\Users\Stojmilova\Desktop\CECE-FINAL\sedc7-11-3-csserver\SedcServer\ServerRunner\obj\Debug\netcoreapp2.1\ServerRunner.AssemblyInfoInputs.cache
+C:\Users\Stojmilova\Desktop\CECE-FINAL\sedc7-11-3-csserver\SedcServer\ServerRunner\obj\Debug\netcoreapp2.1\ServerRunner.AssemblyInfo.cs
+C:\Users\Stojmilova\Desktop\CECE-FINAL\sedc7-11-3-csserver\SedcServer\ServerRunner\obj\Debug\netcoreapp2.1\ServerRunner.csproj.CopyComplete
+C:\Users\Stojmilova\Desktop\CECE-FINAL\sedc7-11-3-csserver\SedcServer\ServerRunner\obj\Debug\netcoreapp2.1\ServerRunner.dll
+C:\Users\Stojmilova\Desktop\CECE-FINAL\sedc7-11-3-csserver\SedcServer\ServerRunner\obj\Debug\netcoreapp2.1\ServerRunner.pdb
+C:\Users\Stojmilova\Desktop\Homework-CSharp Sever -Class08\sedc7-11-3-csserver\SedcServer\ServerRunner\bin\Debug\netcoreapp2.1\ubava_slika.jpg
+C:\Users\Stojmilova\Desktop\Homework-CSharp Sever -Class08\sedc7-11-3-csserver\SedcServer\ServerRunner\bin\Debug\netcoreapp2.1\ServerRunner.deps.json
+C:\Users\Stojmilova\Desktop\Homework-CSharp Sever -Class08\sedc7-11-3-csserver\SedcServer\ServerRunner\bin\Debug\netcoreapp2.1\ServerRunner.runtimeconfig.json
+C:\Users\Stojmilova\Desktop\Homework-CSharp Sever -Class08\sedc7-11-3-csserver\SedcServer\ServerRunner\bin\Debug\netcoreapp2.1\ServerRunner.runtimeconfig.dev.json
+C:\Users\Stojmilova\Desktop\Homework-CSharp Sever -Class08\sedc7-11-3-csserver\SedcServer\ServerRunner\bin\Debug\netcoreapp2.1\ServerRunner.dll
+C:\Users\Stojmilova\Desktop\Homework-CSharp Sever -Class08\sedc7-11-3-csserver\SedcServer\ServerRunner\bin\Debug\netcoreapp2.1\ServerRunner.pdb
+C:\Users\Stojmilova\Desktop\Homework-CSharp Sever -Class08\sedc7-11-3-csserver\SedcServer\ServerRunner\bin\Debug\netcoreapp2.1\PngResponseGeneratorLib.dll
+C:\Users\Stojmilova\Desktop\Homework-CSharp Sever -Class08\sedc7-11-3-csserver\SedcServer\ServerRunner\bin\Debug\netcoreapp2.1\ServerCore.dll
+C:\Users\Stojmilova\Desktop\Homework-CSharp Sever -Class08\sedc7-11-3-csserver\SedcServer\ServerRunner\bin\Debug\netcoreapp2.1\ServerInterfaces.dll
+C:\Users\Stojmilova\Desktop\Homework-CSharp Sever -Class08\sedc7-11-3-csserver\SedcServer\ServerRunner\bin\Debug\netcoreapp2.1\ServerPlugins.dll
+C:\Users\Stojmilova\Desktop\Homework-CSharp Sever -Class08\sedc7-11-3-csserver\SedcServer\ServerRunner\bin\Debug\netcoreapp2.1\PngResponseGeneratorLib.pdb
+C:\Users\Stojmilova\Desktop\Homework-CSharp Sever -Class08\sedc7-11-3-csserver\SedcServer\ServerRunner\bin\Debug\netcoreapp2.1\ServerCore.pdb
+C:\Users\Stojmilova\Desktop\Homework-CSharp Sever -Class08\sedc7-11-3-csserver\SedcServer\ServerRunner\bin\Debug\netcoreapp2.1\ServerInterfaces.pdb
+C:\Users\Stojmilova\Desktop\Homework-CSharp Sever -Class08\sedc7-11-3-csserver\SedcServer\ServerRunner\bin\Debug\netcoreapp2.1\ServerPlugins.pdb
+C:\Users\Stojmilova\Desktop\Homework-CSharp Sever -Class08\sedc7-11-3-csserver\SedcServer\ServerRunner\obj\Debug\netcoreapp2.1\ServerRunner.csprojAssemblyReference.cache
+C:\Users\Stojmilova\Desktop\Homework-CSharp Sever -Class08\sedc7-11-3-csserver\SedcServer\ServerRunner\obj\Debug\netcoreapp2.1\ServerRunner.csproj.CoreCompileInputs.cache
+C:\Users\Stojmilova\Desktop\Homework-CSharp Sever -Class08\sedc7-11-3-csserver\SedcServer\ServerRunner\obj\Debug\netcoreapp2.1\ServerRunner.AssemblyInfoInputs.cache
+C:\Users\Stojmilova\Desktop\Homework-CSharp Sever -Class08\sedc7-11-3-csserver\SedcServer\ServerRunner\obj\Debug\netcoreapp2.1\ServerRunner.AssemblyInfo.cs
+C:\Users\Stojmilova\Desktop\Homework-CSharp Sever -Class08\sedc7-11-3-csserver\SedcServer\ServerRunner\obj\Debug\netcoreapp2.1\ServerRunner.csproj.CopyComplete
+C:\Users\Stojmilova\Desktop\Homework-CSharp Sever -Class08\sedc7-11-3-csserver\SedcServer\ServerRunner\obj\Debug\netcoreapp2.1\ServerRunner.dll
+C:\Users\Stojmilova\Desktop\Homework-CSharp Sever -Class08\sedc7-11-3-csserver\SedcServer\ServerRunner\obj\Debug\netcoreapp2.1\ServerRunner.pdb

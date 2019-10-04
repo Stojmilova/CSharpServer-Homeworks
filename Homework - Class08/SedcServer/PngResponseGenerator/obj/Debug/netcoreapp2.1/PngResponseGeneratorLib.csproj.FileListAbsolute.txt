@@ -1,0 +1,24 @@
+C:\Users\Stojmilova\Desktop\CECE-FINAL\sedc7-11-3-csserver\SedcServer\PngResponseGenerator\bin\Debug\netcoreapp2.1\PngResponseGeneratorLib.deps.json
+C:\Users\Stojmilova\Desktop\CECE-FINAL\sedc7-11-3-csserver\SedcServer\PngResponseGenerator\bin\Debug\netcoreapp2.1\PngResponseGeneratorLib.dll
+C:\Users\Stojmilova\Desktop\CECE-FINAL\sedc7-11-3-csserver\SedcServer\PngResponseGenerator\bin\Debug\netcoreapp2.1\PngResponseGeneratorLib.pdb
+C:\Users\Stojmilova\Desktop\CECE-FINAL\sedc7-11-3-csserver\SedcServer\PngResponseGenerator\bin\Debug\netcoreapp2.1\ServerInterfaces.dll
+C:\Users\Stojmilova\Desktop\CECE-FINAL\sedc7-11-3-csserver\SedcServer\PngResponseGenerator\bin\Debug\netcoreapp2.1\ServerInterfaces.pdb
+C:\Users\Stojmilova\Desktop\CECE-FINAL\sedc7-11-3-csserver\SedcServer\PngResponseGenerator\obj\Debug\netcoreapp2.1\PngResponseGeneratorLib.csprojAssemblyReference.cache
+C:\Users\Stojmilova\Desktop\CECE-FINAL\sedc7-11-3-csserver\SedcServer\PngResponseGenerator\obj\Debug\netcoreapp2.1\PngResponseGeneratorLib.csproj.CoreCompileInputs.cache
+C:\Users\Stojmilova\Desktop\CECE-FINAL\sedc7-11-3-csserver\SedcServer\PngResponseGenerator\obj\Debug\netcoreapp2.1\PngResponseGeneratorLib.AssemblyInfoInputs.cache
+C:\Users\Stojmilova\Desktop\CECE-FINAL\sedc7-11-3-csserver\SedcServer\PngResponseGenerator\obj\Debug\netcoreapp2.1\PngResponseGeneratorLib.AssemblyInfo.cs
+C:\Users\Stojmilova\Desktop\CECE-FINAL\sedc7-11-3-csserver\SedcServer\PngResponseGenerator\obj\Debug\netcoreapp2.1\PngResponseGeneratorLib.csproj.CopyComplete
+C:\Users\Stojmilova\Desktop\CECE-FINAL\sedc7-11-3-csserver\SedcServer\PngResponseGenerator\obj\Debug\netcoreapp2.1\PngResponseGeneratorLib.dll
+C:\Users\Stojmilova\Desktop\CECE-FINAL\sedc7-11-3-csserver\SedcServer\PngResponseGenerator\obj\Debug\netcoreapp2.1\PngResponseGeneratorLib.pdb
+C:\Users\Stojmilova\Desktop\Homework-CSharp Sever -Class08\sedc7-11-3-csserver\SedcServer\PngResponseGenerator\bin\Debug\netcoreapp2.1\PngResponseGeneratorLib.deps.json
+C:\Users\Stojmilova\Desktop\Homework-CSharp Sever -Class08\sedc7-11-3-csserver\SedcServer\PngResponseGenerator\bin\Debug\netcoreapp2.1\PngResponseGeneratorLib.dll
+C:\Users\Stojmilova\Desktop\Homework-CSharp Sever -Class08\sedc7-11-3-csserver\SedcServer\PngResponseGenerator\bin\Debug\netcoreapp2.1\PngResponseGeneratorLib.pdb
+C:\Users\Stojmilova\Desktop\Homework-CSharp Sever -Class08\sedc7-11-3-csserver\SedcServer\PngResponseGenerator\bin\Debug\netcoreapp2.1\ServerInterfaces.dll
+C:\Users\Stojmilova\Desktop\Homework-CSharp Sever -Class08\sedc7-11-3-csserver\SedcServer\PngResponseGenerator\bin\Debug\netcoreapp2.1\ServerInterfaces.pdb
+C:\Users\Stojmilova\Desktop\Homework-CSharp Sever -Class08\sedc7-11-3-csserver\SedcServer\PngResponseGenerator\obj\Debug\netcoreapp2.1\PngResponseGeneratorLib.csprojAssemblyReference.cache
+C:\Users\Stojmilova\Desktop\Homework-CSharp Sever -Class08\sedc7-11-3-csserver\SedcServer\PngResponseGenerator\obj\Debug\netcoreapp2.1\PngResponseGeneratorLib.csproj.CoreCompileInputs.cache
+C:\Users\Stojmilova\Desktop\Homework-CSharp Sever -Class08\sedc7-11-3-csserver\SedcServer\PngResponseGenerator\obj\Debug\netcoreapp2.1\PngResponseGeneratorLib.AssemblyInfoInputs.cache
+C:\Users\Stojmilova\Desktop\Homework-CSharp Sever -Class08\sedc7-11-3-csserver\SedcServer\PngResponseGenerator\obj\Debug\netcoreapp2.1\PngResponseGeneratorLib.AssemblyInfo.cs
+C:\Users\Stojmilova\Desktop\Homework-CSharp Sever -Class08\sedc7-11-3-csserver\SedcServer\PngResponseGenerator\obj\Debug\netcoreapp2.1\PngResponseGeneratorLib.csproj.CopyComplete
+C:\Users\Stojmilova\Desktop\Homework-CSharp Sever -Class08\sedc7-11-3-csserver\SedcServer\PngResponseGenerator\obj\Debug\netcoreapp2.1\PngResponseGeneratorLib.dll
+C:\Users\Stojmilova\Desktop\Homework-CSharp Sever -Class08\sedc7-11-3-csserver\SedcServer\PngResponseGenerator\obj\Debug\netcoreapp2.1\PngResponseGeneratorLib.pdb

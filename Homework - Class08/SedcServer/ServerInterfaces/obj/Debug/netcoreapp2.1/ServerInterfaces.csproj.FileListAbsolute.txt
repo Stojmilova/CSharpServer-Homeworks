@@ -1,0 +1,18 @@
+C:\Users\Stojmilova\Desktop\CECE-FINAL\sedc7-11-3-csserver\SedcServer\ServerInterfaces\bin\Debug\netcoreapp2.1\ServerInterfaces.deps.json
+C:\Users\Stojmilova\Desktop\CECE-FINAL\sedc7-11-3-csserver\SedcServer\ServerInterfaces\bin\Debug\netcoreapp2.1\ServerInterfaces.dll
+C:\Users\Stojmilova\Desktop\CECE-FINAL\sedc7-11-3-csserver\SedcServer\ServerInterfaces\bin\Debug\netcoreapp2.1\ServerInterfaces.pdb
+C:\Users\Stojmilova\Desktop\CECE-FINAL\sedc7-11-3-csserver\SedcServer\ServerInterfaces\obj\Debug\netcoreapp2.1\ServerInterfaces.csproj.CoreCompileInputs.cache
+C:\Users\Stojmilova\Desktop\CECE-FINAL\sedc7-11-3-csserver\SedcServer\ServerInterfaces\obj\Debug\netcoreapp2.1\ServerInterfaces.AssemblyInfoInputs.cache
+C:\Users\Stojmilova\Desktop\CECE-FINAL\sedc7-11-3-csserver\SedcServer\ServerInterfaces\obj\Debug\netcoreapp2.1\ServerInterfaces.AssemblyInfo.cs
+C:\Users\Stojmilova\Desktop\CECE-FINAL\sedc7-11-3-csserver\SedcServer\ServerInterfaces\obj\Debug\netcoreapp2.1\ServerInterfaces.dll
+C:\Users\Stojmilova\Desktop\CECE-FINAL\sedc7-11-3-csserver\SedcServer\ServerInterfaces\obj\Debug\netcoreapp2.1\ServerInterfaces.pdb
+C:\Users\Stojmilova\Desktop\CECE-FINAL\sedc7-11-3-csserver\SedcServer\ServerInterfaces\obj\Debug\netcoreapp2.1\ServerInterfaces.csprojAssemblyReference.cache
+C:\Users\Stojmilova\Desktop\Homework-CSharp Sever -Class08\sedc7-11-3-csserver\SedcServer\ServerInterfaces\bin\Debug\netcoreapp2.1\ServerInterfaces.deps.json
+C:\Users\Stojmilova\Desktop\Homework-CSharp Sever -Class08\sedc7-11-3-csserver\SedcServer\ServerInterfaces\bin\Debug\netcoreapp2.1\ServerInterfaces.dll
+C:\Users\Stojmilova\Desktop\Homework-CSharp Sever -Class08\sedc7-11-3-csserver\SedcServer\ServerInterfaces\bin\Debug\netcoreapp2.1\ServerInterfaces.pdb
+C:\Users\Stojmilova\Desktop\Homework-CSharp Sever -Class08\sedc7-11-3-csserver\SedcServer\ServerInterfaces\obj\Debug\netcoreapp2.1\ServerInterfaces.csprojAssemblyReference.cache
+C:\Users\Stojmilova\Desktop\Homework-CSharp Sever -Class08\sedc7-11-3-csserver\SedcServer\ServerInterfaces\obj\Debug\netcoreapp2.1\ServerInterfaces.csproj.CoreCompileInputs.cache
+C:\Users\Stojmilova\Desktop\Homework-CSharp Sever -Class08\sedc7-11-3-csserver\SedcServer\ServerInterfaces\obj\Debug\netcoreapp2.1\ServerInterfaces.AssemblyInfoInputs.cache
+C:\Users\Stojmilova\Desktop\Homework-CSharp Sever -Class08\sedc7-11-3-csserver\SedcServer\ServerInterfaces\obj\Debug\netcoreapp2.1\ServerInterfaces.AssemblyInfo.cs
+C:\Users\Stojmilova\Desktop\Homework-CSharp Sever -Class08\sedc7-11-3-csserver\SedcServer\ServerInterfaces\obj\Debug\netcoreapp2.1\ServerInterfaces.dll
+C:\Users\Stojmilova\Desktop\Homework-CSharp Sever -Class08\sedc7-11-3-csserver\SedcServer\ServerInterfaces\obj\Debug\netcoreapp2.1\ServerInterfaces.pdb

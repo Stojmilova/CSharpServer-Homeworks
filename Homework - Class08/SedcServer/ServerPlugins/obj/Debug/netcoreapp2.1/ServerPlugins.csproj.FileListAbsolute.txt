@@ -1,0 +1,18 @@
+C:\Users\Stojmilova\Desktop\CECE-FINAL\sedc7-11-3-csserver\SedcServer\ServerPlugins\bin\Debug\netcoreapp2.1\ServerPlugins.deps.json
+C:\Users\Stojmilova\Desktop\CECE-FINAL\sedc7-11-3-csserver\SedcServer\ServerPlugins\bin\Debug\netcoreapp2.1\ServerPlugins.dll
+C:\Users\Stojmilova\Desktop\CECE-FINAL\sedc7-11-3-csserver\SedcServer\ServerPlugins\bin\Debug\netcoreapp2.1\ServerPlugins.pdb
+C:\Users\Stojmilova\Desktop\CECE-FINAL\sedc7-11-3-csserver\SedcServer\ServerPlugins\bin\Debug\netcoreapp2.1\ServerInterfaces.dll
+C:\Users\Stojmilova\Desktop\CECE-FINAL\sedc7-11-3-csserver\SedcServer\ServerPlugins\bin\Debug\netcoreapp2.1\ServerInterfaces.pdb
+C:\Users\Stojmilova\Desktop\CECE-FINAL\sedc7-11-3-csserver\SedcServer\ServerPlugins\obj\Debug\netcoreapp2.1\ServerPlugins.csprojAssemblyReference.cache
+C:\Users\Stojmilova\Desktop\CECE-FINAL\sedc7-11-3-csserver\SedcServer\ServerPlugins\obj\Debug\netcoreapp2.1\ServerPlugins.csproj.CoreCompileInputs.cache
+C:\Users\Stojmilova\Desktop\CECE-FINAL\sedc7-11-3-csserver\SedcServer\ServerPlugins\obj\Debug\netcoreapp2.1\ServerPlugins.AssemblyInfoInputs.cache
+C:\Users\Stojmilova\Desktop\CECE-FINAL\sedc7-11-3-csserver\SedcServer\ServerPlugins\obj\Debug\netcoreapp2.1\ServerPlugins.AssemblyInfo.cs
+C:\Users\Stojmilova\Desktop\CECE-FINAL\sedc7-11-3-csserver\SedcServer\ServerPlugins\obj\Debug\netcoreapp2.1\ServerPlugins.csproj.CopyComplete
+C:\Users\Stojmilova\Desktop\CECE-FINAL\sedc7-11-3-csserver\SedcServer\ServerPlugins\obj\Debug\netcoreapp2.1\ServerPlugins.dll
+C:\Users\Stojmilova\Desktop\CECE-FINAL\sedc7-11-3-csserver\SedcServer\ServerPlugins\obj\Debug\netcoreapp2.1\ServerPlugins.pdb
+C:\Users\Stojmilova\Desktop\Homework-CSharp Sever -Class08\sedc7-11-3-csserver\SedcServer\ServerPlugins\obj\Debug\netcoreapp2.1\ServerPlugins.csprojAssemblyReference.cache
+C:\Users\Stojmilova\Desktop\Homework-CSharp Sever -Class08\sedc7-11-3-csserver\SedcServer\ServerPlugins\obj\Debug\netcoreapp2.1\ServerPlugins.csproj.CoreCompileInputs.cache
+C:\Users\Stojmilova\Desktop\Homework-CSharp Sever -Class08\sedc7-11-3-csserver\SedcServer\ServerPlugins\obj\Debug\netcoreapp2.1\ServerPlugins.AssemblyInfoInputs.cache
+C:\Users\Stojmilova\Desktop\Homework-CSharp Sever -Class08\sedc7-11-3-csserver\SedcServer\ServerPlugins\obj\Debug\netcoreapp2.1\ServerPlugins.AssemblyInfo.cs
+C:\Users\Stojmilova\Desktop\Homework-CSharp Sever -Class08\sedc7-11-3-csserver\SedcServer\ServerPlugins\obj\Debug\netcoreapp2.1\ServerPlugins.dll
+C:\Users\Stojmilova\Desktop\Homework-CSharp Sever -Class08\sedc7-11-3-csserver\SedcServer\ServerPlugins\obj\Debug\netcoreapp2.1\ServerPlugins.pdb

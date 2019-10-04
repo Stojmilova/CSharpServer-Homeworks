@@ -1,0 +1,10 @@
+C:\Users\Stojmilova\Desktop\CECE-FINAL\sedc7-11-3-csserver\SedcServer\AwaitAsyncDemo\bin\Debug\netcoreapp2.1\AwaitAsyncDemo.deps.json
+C:\Users\Stojmilova\Desktop\CECE-FINAL\sedc7-11-3-csserver\SedcServer\AwaitAsyncDemo\bin\Debug\netcoreapp2.1\AwaitAsyncDemo.runtimeconfig.json
+C:\Users\Stojmilova\Desktop\CECE-FINAL\sedc7-11-3-csserver\SedcServer\AwaitAsyncDemo\bin\Debug\netcoreapp2.1\AwaitAsyncDemo.runtimeconfig.dev.json
+C:\Users\Stojmilova\Desktop\CECE-FINAL\sedc7-11-3-csserver\SedcServer\AwaitAsyncDemo\bin\Debug\netcoreapp2.1\AwaitAsyncDemo.dll
+C:\Users\Stojmilova\Desktop\CECE-FINAL\sedc7-11-3-csserver\SedcServer\AwaitAsyncDemo\bin\Debug\netcoreapp2.1\AwaitAsyncDemo.pdb
+C:\Users\Stojmilova\Desktop\CECE-FINAL\sedc7-11-3-csserver\SedcServer\AwaitAsyncDemo\obj\Debug\netcoreapp2.1\AwaitAsyncDemo.csproj.CoreCompileInputs.cache
+C:\Users\Stojmilova\Desktop\CECE-FINAL\sedc7-11-3-csserver\SedcServer\AwaitAsyncDemo\obj\Debug\netcoreapp2.1\AwaitAsyncDemo.AssemblyInfoInputs.cache
+C:\Users\Stojmilova\Desktop\CECE-FINAL\sedc7-11-3-csserver\SedcServer\AwaitAsyncDemo\obj\Debug\netcoreapp2.1\AwaitAsyncDemo.AssemblyInfo.cs
+C:\Users\Stojmilova\Desktop\CECE-FINAL\sedc7-11-3-csserver\SedcServer\AwaitAsyncDemo\obj\Debug\netcoreapp2.1\AwaitAsyncDemo.dll
+C:\Users\Stojmilova\Desktop\CECE-FINAL\sedc7-11-3-csserver\SedcServer\AwaitAsyncDemo\obj\Debug\netcoreapp2.1\AwaitAsyncDemo.pdb

@@ -1,0 +1,11 @@
+C:\Users\Stojmilova\Desktop\CECE-FINAL\sedc7-11-3-csserver\SedcServer\StringBuilderDemo\bin\Debug\netcoreapp2.1\StringBuilderDemo.deps.json
+C:\Users\Stojmilova\Desktop\CECE-FINAL\sedc7-11-3-csserver\SedcServer\StringBuilderDemo\bin\Debug\netcoreapp2.1\StringBuilderDemo.runtimeconfig.json
+C:\Users\Stojmilova\Desktop\CECE-FINAL\sedc7-11-3-csserver\SedcServer\StringBuilderDemo\bin\Debug\netcoreapp2.1\StringBuilderDemo.runtimeconfig.dev.json
+C:\Users\Stojmilova\Desktop\CECE-FINAL\sedc7-11-3-csserver\SedcServer\StringBuilderDemo\bin\Debug\netcoreapp2.1\StringBuilderDemo.dll
+C:\Users\Stojmilova\Desktop\CECE-FINAL\sedc7-11-3-csserver\SedcServer\StringBuilderDemo\bin\Debug\netcoreapp2.1\StringBuilderDemo.pdb
+C:\Users\Stojmilova\Desktop\CECE-FINAL\sedc7-11-3-csserver\SedcServer\StringBuilderDemo\obj\Debug\netcoreapp2.1\StringBuilderDemo.csprojAssemblyReference.cache
+C:\Users\Stojmilova\Desktop\CECE-FINAL\sedc7-11-3-csserver\SedcServer\StringBuilderDemo\obj\Debug\netcoreapp2.1\StringBuilderDemo.csproj.CoreCompileInputs.cache
+C:\Users\Stojmilova\Desktop\CECE-FINAL\sedc7-11-3-csserver\SedcServer\StringBuilderDemo\obj\Debug\netcoreapp2.1\StringBuilderDemo.AssemblyInfoInputs.cache
+C:\Users\Stojmilova\Desktop\CECE-FINAL\sedc7-11-3-csserver\SedcServer\StringBuilderDemo\obj\Debug\netcoreapp2.1\StringBuilderDemo.AssemblyInfo.cs
+C:\Users\Stojmilova\Desktop\CECE-FINAL\sedc7-11-3-csserver\SedcServer\StringBuilderDemo\obj\Debug\netcoreapp2.1\StringBuilderDemo.dll
+C:\Users\Stojmilova\Desktop\CECE-FINAL\sedc7-11-3-csserver\SedcServer\StringBuilderDemo\obj\Debug\netcoreapp2.1\StringBuilderDemo.pdb

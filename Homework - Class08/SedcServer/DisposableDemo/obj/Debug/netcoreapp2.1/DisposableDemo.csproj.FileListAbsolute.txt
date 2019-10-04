@@ -1,0 +1,11 @@
+C:\Users\Stojmilova\Desktop\CECE-FINAL\sedc7-11-3-csserver\SedcServer\DisposableDemo\bin\Debug\netcoreapp2.1\DisposableDemo.deps.json
+C:\Users\Stojmilova\Desktop\CECE-FINAL\sedc7-11-3-csserver\SedcServer\DisposableDemo\bin\Debug\netcoreapp2.1\DisposableDemo.runtimeconfig.json
+C:\Users\Stojmilova\Desktop\CECE-FINAL\sedc7-11-3-csserver\SedcServer\DisposableDemo\bin\Debug\netcoreapp2.1\DisposableDemo.runtimeconfig.dev.json
+C:\Users\Stojmilova\Desktop\CECE-FINAL\sedc7-11-3-csserver\SedcServer\DisposableDemo\bin\Debug\netcoreapp2.1\DisposableDemo.dll
+C:\Users\Stojmilova\Desktop\CECE-FINAL\sedc7-11-3-csserver\SedcServer\DisposableDemo\bin\Debug\netcoreapp2.1\DisposableDemo.pdb
+C:\Users\Stojmilova\Desktop\CECE-FINAL\sedc7-11-3-csserver\SedcServer\DisposableDemo\obj\Debug\netcoreapp2.1\DisposableDemo.csprojAssemblyReference.cache
+C:\Users\Stojmilova\Desktop\CECE-FINAL\sedc7-11-3-csserver\SedcServer\DisposableDemo\obj\Debug\netcoreapp2.1\DisposableDemo.csproj.CoreCompileInputs.cache
+C:\Users\Stojmilova\Desktop\CECE-FINAL\sedc7-11-3-csserver\SedcServer\DisposableDemo\obj\Debug\netcoreapp2.1\DisposableDemo.AssemblyInfoInputs.cache
+C:\Users\Stojmilova\Desktop\CECE-FINAL\sedc7-11-3-csserver\SedcServer\DisposableDemo\obj\Debug\netcoreapp2.1\DisposableDemo.AssemblyInfo.cs
+C:\Users\Stojmilova\Desktop\CECE-FINAL\sedc7-11-3-csserver\SedcServer\DisposableDemo\obj\Debug\netcoreapp2.1\DisposableDemo.dll
+C:\Users\Stojmilova\Desktop\CECE-FINAL\sedc7-11-3-csserver\SedcServer\DisposableDemo\obj\Debug\netcoreapp2.1\DisposableDemo.pdb
