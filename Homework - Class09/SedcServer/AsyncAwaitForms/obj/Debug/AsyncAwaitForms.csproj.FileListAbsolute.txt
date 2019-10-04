@@ -1,0 +1,20 @@
+D:\web development\C# Server\sedc7-11-3-csserver\SedcServer\AsyncAwaitForms\bin\Debug\AsyncAwaitForms.exe.config
+D:\web development\C# Server\sedc7-11-3-csserver\SedcServer\AsyncAwaitForms\bin\Debug\AsyncAwaitForms.exe
+D:\web development\C# Server\sedc7-11-3-csserver\SedcServer\AsyncAwaitForms\bin\Debug\AsyncAwaitForms.pdb
+D:\web development\C# Server\sedc7-11-3-csserver\SedcServer\AsyncAwaitForms\obj\Debug\AsyncAwaitForms.csprojAssemblyReference.cache
+D:\web development\C# Server\sedc7-11-3-csserver\SedcServer\AsyncAwaitForms\obj\Debug\AsyncAwaitForms.MainForm.resources
+D:\web development\C# Server\sedc7-11-3-csserver\SedcServer\AsyncAwaitForms\obj\Debug\AsyncAwaitForms.Properties.Resources.resources
+D:\web development\C# Server\sedc7-11-3-csserver\SedcServer\AsyncAwaitForms\obj\Debug\AsyncAwaitForms.csproj.GenerateResource.cache
+D:\web development\C# Server\sedc7-11-3-csserver\SedcServer\AsyncAwaitForms\obj\Debug\AsyncAwaitForms.csproj.CoreCompileInputs.cache
+D:\web development\C# Server\sedc7-11-3-csserver\SedcServer\AsyncAwaitForms\obj\Debug\AsyncAwaitForms.exe
+D:\web development\C# Server\sedc7-11-3-csserver\SedcServer\AsyncAwaitForms\obj\Debug\AsyncAwaitForms.pdb
+C:\Users\Stojmilova\Desktop\nate\C-ServerHomeworks\Class 9 - Homework\SedcServer\AsyncAwaitForms\bin\Debug\AsyncAwaitForms.exe.config
+C:\Users\Stojmilova\Desktop\nate\C-ServerHomeworks\Class 9 - Homework\SedcServer\AsyncAwaitForms\bin\Debug\AsyncAwaitForms.exe
+C:\Users\Stojmilova\Desktop\nate\C-ServerHomeworks\Class 9 - Homework\SedcServer\AsyncAwaitForms\bin\Debug\AsyncAwaitForms.pdb
+C:\Users\Stojmilova\Desktop\nate\C-ServerHomeworks\Class 9 - Homework\SedcServer\AsyncAwaitForms\obj\Debug\AsyncAwaitForms.csprojAssemblyReference.cache
+C:\Users\Stojmilova\Desktop\nate\C-ServerHomeworks\Class 9 - Homework\SedcServer\AsyncAwaitForms\obj\Debug\AsyncAwaitForms.MainForm.resources
+C:\Users\Stojmilova\Desktop\nate\C-ServerHomeworks\Class 9 - Homework\SedcServer\AsyncAwaitForms\obj\Debug\AsyncAwaitForms.Properties.Resources.resources
+C:\Users\Stojmilova\Desktop\nate\C-ServerHomeworks\Class 9 - Homework\SedcServer\AsyncAwaitForms\obj\Debug\AsyncAwaitForms.csproj.GenerateResource.cache
+C:\Users\Stojmilova\Desktop\nate\C-ServerHomeworks\Class 9 - Homework\SedcServer\AsyncAwaitForms\obj\Debug\AsyncAwaitForms.csproj.CoreCompileInputs.cache
+C:\Users\Stojmilova\Desktop\nate\C-ServerHomeworks\Class 9 - Homework\SedcServer\AsyncAwaitForms\obj\Debug\AsyncAwaitForms.exe
+C:\Users\Stojmilova\Desktop\nate\C-ServerHomeworks\Class 9 - Homework\SedcServer\AsyncAwaitForms\obj\Debug\AsyncAwaitForms.pdb
